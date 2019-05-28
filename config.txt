@@ -3,4 +3,4 @@ prefix=GM
 game=GMplay
 stayinchannel=true
 songinstatus=false
-token=mEOTIxDv4PcKD6c2RCN_iPlQJUW16axs
+token=NTgzMDE4OTM2NjI3NjI1OTk0.XO2YMw.XrExv8pIs7fSaUAu1kHoCI3i8Vo
